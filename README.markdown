@@ -1,4 +1,4 @@
-## Information
+## My Own
 
 Zoomooz is an easy-to-use jQuery plugin for making any web page element zoom.
 
